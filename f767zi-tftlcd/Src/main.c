@@ -24,7 +24,6 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 #include "tftlcd.h"
-#include "PIC.H"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
